@@ -33,15 +33,8 @@ function Haiku3(){
 function Haiku4 (){
     console.log("haiku by:","Everyone");
 //arturo's eerste zin
-<<<<<<< HEAD
      console.log("DONKEY KONG IS BACK");
-<<<<<<< HEAD
-=======
-     console.log("free v buck -");
-
->>>>>>> deb430a6495dd8dffd4261b5c8f2da00569c43f6
-    
-
+     console.log("free v buck -");  
 //Julian`s zin
  console.log("Listening, that evening,")
 //fehmi zin
