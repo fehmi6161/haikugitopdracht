@@ -27,11 +27,22 @@ function Haiku2(){
     console.log("Toward those short trees");
     console.log("We saw a hawk descending");
     console.log("On a day in spring.");
+
 }
-  
+
+
+// HAIKU 4 
+
+function Haiku4 (){
+    console.log("haiku by:","Everyone");
+//arturo's eerste zin
+     console.log("Winter seclusion -");
+
+}
 
 //laat de code hieronder met rust
 
 Haiku1()
 Haiku2()
 Haiku3()
+Haiku4()
