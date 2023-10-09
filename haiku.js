@@ -33,7 +33,7 @@ function Haiku3(){
 function Haiku4 (){
     console.log("haiku by:","Everyone");
 //arturo's eerste zin
-     console.log("Winter seclusion -");
+     console.log("DONKEY KONG IS BACK");
 <<<<<<< HEAD
     
 =======
