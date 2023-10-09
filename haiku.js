@@ -10,17 +10,6 @@ function Haiku1(){
     console.log("How soon it must die.");
 }
 
-//fehmi
-function Haiku3(){
-    console.log("haiku by:","Kobayahsi Issa");
-   1. console.log("The wren Earns his living Noiselessly.");
-   2. console.log("Winter seclusion - Listening, that evening, To the rain in the mountain.");
-   3. console.log("Dont weep, insects Lovers, stars themselves, Must part.");
-}
-
-#laat de code hieronder met rust
-    
-
 //Julians`s Haiku
 function Haiku2(){
     console.log("haiku by:","Julian");
@@ -30,6 +19,14 @@ function Haiku2(){
 
 }
 
+//fehmi
+function Haiku3(){
+    console.log("haiku by:","Kobayahsi Issa");
+    console.log("The wren Earns his living Noiselessly.");
+    console.log("Winter seclusion - Listening, that evening, To the rain in the mountain.");
+    console.log("Dont weep, insects Lovers, stars themselves, Must part.");
+}
+   
 
 // HAIKU 4 
 
@@ -37,7 +34,14 @@ function Haiku4 (){
     console.log("haiku by:","Everyone");
 //arturo's eerste zin
      console.log("Winter seclusion -");
+<<<<<<< HEAD
     
+=======
+//Julian`s zin
+ console.log("Listening, that evening,")
+//fehmi zin
+console.log("To the rain in the mountain.")
+
 }
 
 //laat de code hieronder met rust
