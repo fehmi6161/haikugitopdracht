@@ -37,7 +37,7 @@ function Haiku4 (){
     console.log("haiku by:","Everyone");
 //arturo's eerste zin
      console.log("Winter seclusion -");
-
+    
 }
 
 //laat de code hieronder met rust
