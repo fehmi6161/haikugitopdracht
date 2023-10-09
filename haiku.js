@@ -34,9 +34,9 @@ function Haiku4 (){
     console.log("haiku by:","Everyone");
 //arturo's eerste zin
      console.log("Winter seclusion -");
-<<<<<<< HEAD
+
     
-=======
+
 //Julian`s zin
  console.log("Listening, that evening,")
 //fehmi zin
