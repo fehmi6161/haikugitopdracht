@@ -35,6 +35,9 @@ function Haiku4 (){
 //arturo's eerste zin
      console.log("DONKEY KONG IS BACK");
      console.log("free v buck -");  
+     console.log("inter seclusion -");
+     console.log("free v buck -");
+
 //Julian`s zin
  console.log("Listening, that evening,")
 //fehmi zin
