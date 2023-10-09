@@ -1,6 +1,6 @@
 
 
-#plak hier de haiku functions onder elkaar
+//plak hier de haiku functions onder elkaar
 
 //Arturo's Haiku
 function Haiku1(){
@@ -10,9 +10,16 @@ function Haiku1(){
     console.log("How soon it must die.");
 }
 
+//Julians`s Haiku
+function Haiku2(){
+    console.log("haiku by:","Julian");
+    console.log("Toward those short trees");
+    console.log("We saw a hawk descending");
+    console.log("On a day in spring.");
+}
+  
 
-
-#laat de code hieronder met rust
+//laat de code hieronder met rust
 Haiku1()
 Haiku2()
 Haiku3()
