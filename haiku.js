@@ -9,8 +9,13 @@ function Haiku1(){
     console.log("No sign can foretell");
     console.log("How soon it must die.");
 }
-
-
+//fehmi
+function Haiku3(){
+    console.log("haiku by:","Kobayahsi Issa");
+   1. console.log("The wren Earns his living Noiselessly.");
+   2. console.log("Winter seclusion - Listening, that evening, To the rain in the mountain.");
+   3. console.log("Dont weep, insects Lovers, stars themselves, Must part.");
+}
 
 #laat de code hieronder met rust
 Haiku1()
